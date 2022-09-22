@@ -7,3 +7,6 @@ https://jgajic.github.io/kids-game/
 
 ✨ Sign-based game ✨
 https://jgajic.github.io/slagalica/
+
+✨ Guess my number game ✨
+https://jgajic.github.io/guess-my-number/
