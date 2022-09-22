@@ -15,4 +15,4 @@ https://jgajic.github.io/guess-my-number/
 https://jgajic.github.io/roll-the-dice/
 
 ✨ Bankist app ✨
-https://jgajic.github.io/bankist-app/  = USER ID & PIN = (js, 1111) & (jd, 2222)
+https://jgajic.github.io/bankist-app/  => USER ID & PIN = (js, 1111) & (jd, 2222)
