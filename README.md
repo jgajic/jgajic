@@ -10,3 +10,6 @@ https://jgajic.github.io/slagalica/
 
 ✨ Guess my number game ✨
 https://jgajic.github.io/guess-my-number/
+
+✨ Roll the dice game ✨
+https://jgajic.github.io/roll-the-dice/
