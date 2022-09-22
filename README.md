@@ -13,3 +13,6 @@ https://jgajic.github.io/guess-my-number/
 
 ✨ Roll the dice game ✨
 https://jgajic.github.io/roll-the-dice/
+
+✨ Bankist app ✨
+https://jgajic.github.io/bankist-app/  USER ID & PIN = (js, 1111) & (jd, 2222)
