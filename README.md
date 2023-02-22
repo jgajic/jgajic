@@ -19,3 +19,6 @@ https://jgajic.github.io/portfolio/
 
 ✨ Beer-site ✨
 https://jgajic.github.io/Beer-site/
+
+✨ Horizons website ✨
+https://jgajic.github.io/horizons/
