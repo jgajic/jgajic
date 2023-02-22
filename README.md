@@ -10,3 +10,9 @@ https://jgajic.github.io/slagalica/
 
 ✨ Guess my number game ✨
 https://jgajic.github.io/guess-my-number/
+
+✨ Basic CRUD ✨
+https://jgajic.github.io/Basic-CRUD/
+
+✨ Portfolio website ✨
+https://jgajic.github.io/portfolio/
