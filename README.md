@@ -16,3 +16,6 @@ https://jgajic.github.io/Basic-CRUD/
 
 ✨ Portfolio website ✨
 https://jgajic.github.io/portfolio/
+
+✨ Beer-site ✨
+https://jgajic.github.io/Beer-site/
