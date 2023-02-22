@@ -25,3 +25,6 @@ https://jgajic.github.io/horizons/
 
 ✨ Rental website ✨
 https://jgajic.github.io/Rental-02/
+
+✨ Photox website ✨
+https://jgajic.github.io/Photox-site/
