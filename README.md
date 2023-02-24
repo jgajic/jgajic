@@ -28,3 +28,6 @@ https://jgajic.github.io/Rental-02/
 
 ✨ Photox website ✨
 https://jgajic.github.io/Photox-site/
+
+✨ Boocic-project website ✨
+https://jgajic.github.io/Boocic-project/
