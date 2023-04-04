@@ -14,6 +14,9 @@ https://jgajic.github.io/slagalica-01/
 ✨ Basic CRUD ✨
 https://jgajic.github.io/Basic-CRUD/
 
+✨ Open Movie Database ✨
+https://jgajic.github.io/Open-Movie-Database/
+
 ✨ Portfolio website ✨
 https://jgajic.github.io/portfolio/
 
