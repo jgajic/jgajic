@@ -8,8 +8,8 @@ https://jgajic.github.io/kids-game/
 ✨ Sign-based game ✨
 https://jgajic.github.io/slagalica-01/
 
-<!-- ✨ Guess my number game ✨ -->
-<!-- https://jgajic.github.io/guess-my-number/ -->
+✨ Guess my number game ✨
+https://jgajic.github.io/Guess-my-number/
 
 ✨ Basic CRUD ✨
 https://jgajic.github.io/Basic-CRUD/
