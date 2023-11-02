@@ -2,7 +2,7 @@ Hi there 👋
 
 This is the list of my hobby projects:
 
-✨ My first official website ✨
+✨ My first wordpress website ✨
 https://starglass.ca/
 
 ✨ Learning letters game ✨
