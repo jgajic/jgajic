@@ -3,7 +3,7 @@ Hi there 👋
 This is the list of my hobby projects:
 
 ✨ My first wordpress website ✨
-https://starglass.ca/
+https://judoklubkobra.rs/
 
 ✨ Learning letters game ✨
 https://jgajic.github.io/kids-game/
