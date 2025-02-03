@@ -2,7 +2,7 @@ Hi there 👋
 
 This is the list of my hobby projects:
 
-✨ My first wordpress website ✨
+✨ Judo club wordpress website ✨
 https://judoklubkobra.rs/
 
 ✨ Learning letters game ✨
