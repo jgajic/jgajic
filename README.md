@@ -2,8 +2,6 @@ Hi there 👋
 
 This is the list of my hobby projects:
 
-✨ Judo club wordpress website ✨
-https://judoklubkobra.rs/
 
 ✨ Learning letters game ✨
 https://jgajic.github.io/kids-game/
